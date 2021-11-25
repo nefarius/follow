@@ -16,10 +16,10 @@
     "sleep",
     "sleepy"
   ],
-  "homepage": "http://github.com/jhs/follow",
+  "homepage": "http://github.com/DecisionFocus/follow",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jhs/follow"
+    "url": "git://github.com/DecisionFocus/follow"
   },
   "engines": {
     "node": ">=0.8.0"
@@ -27,7 +27,7 @@
   "dependencies": {
     "browser-request": "~0.3.0",
     "debug": "^2.1.0",
-    "request": "^2.83.0"
+    "request": "git+https://github.com/DecisionFocus/request.git"
   },
   "devDependencies": {
     "tap": "~0.4.0",
