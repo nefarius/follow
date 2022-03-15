@@ -16,10 +16,10 @@
     "sleep",
     "sleepy"
   ],
-  "homepage": "http://github.com/DecisionFocus/follow",
+  "homepage": "http://github.com/nefarius/follow",
   "repository": {
     "type": "git",
-    "url": "git://github.com/DecisionFocus/follow"
+    "url": "git://github.com/nefarius/follow"
   },
   "engines": {
     "node": ">=0.8.0"
@@ -27,7 +27,7 @@
   "dependencies": {
     "browser-request": "~0.3.0",
     "debug": "^2.1.0",
-    "request": "git+https://github.com/DecisionFocus/request.git"
+    "request": "git+https://github.com/nefarius/request.git"
   },
   "devDependencies": {
     "tap": "~0.4.0",
